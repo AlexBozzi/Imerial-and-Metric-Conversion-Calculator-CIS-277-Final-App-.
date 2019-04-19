@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages a
+## Welcome to my Imperial/Metric Conversion Repo
 
-You can use the [editor on GitHub](https://github.com/AlexBozzi/Imerial-and-Metric-Conversion-Calculator-CIS-277-Final-App-./edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This appplication was designed to allow users to convert nearly any unit of measurement between Imperial and Metric. It was specifically designed with user freandliness and reusability in mind. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who benifits from this app?
 
-### Markdown
+The nice thing about including so many different units of measurment to convert from is that so many differnt groups of people can find it useful. The main beneficiaries are students, scientists, mathematicians, scientists and people, on vacation. Cooks, athletes, and military personnel among many others could find use out of it as well.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
